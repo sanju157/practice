@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      React app
+      React app setup new project in git practice repo
     </div>
   );
 }
